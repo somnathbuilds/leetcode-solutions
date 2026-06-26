@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0152-maximum-product-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
