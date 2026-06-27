@@ -4,24 +4,21 @@ class Solution {
         int bestsum = nums[0] + nums[1] + nums[2];
         for (int i = 0; i < nums.length - 2; i++) {
             int j = i + 1;
-            int k = nums.length - 1;
+            int k = nums.length - 1; 
             while (j < k) {
-                int currentsum = nums[i] + nums[j] + nums[k];
-                
-                if(currentsum == target){
-                    return currentsum;
+                int sum = nums[i] + nums[j] + nums[k];
+                if(Math.abs(sum - target) < Math.abs(bestsum-target)){
+                    bestsum = sum;
                 }
-
-                if (Math.abs(bestsum - target) > Math.abs(currentsum - target)) {
-                    bestsum = currentsum;
-                }
-                    if (currentsum < target) {
-                        j++;
-                    } else {
-                        k--;
-                    }
+                if (sum < target) {
+                    j++;
+                } else if (sum > target) {
+                    k--;
+                } else {
+                    return bestsum;
                 }
             }
+        }
         return bestsum;
     }
 }
