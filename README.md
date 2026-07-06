@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
