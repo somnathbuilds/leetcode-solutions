@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0383-ransom-note) |
