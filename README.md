@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,4 +224,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
