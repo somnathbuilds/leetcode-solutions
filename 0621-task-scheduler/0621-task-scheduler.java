@@ -1,52 +1,21 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
 
-        // Step 1: Frequency Count
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        for (char ch : tasks) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        int [] freq = new int[26];
+        //maxfreq nikalo
+        int maxfreq = 0;
+        for(char ch : tasks){
+            freq[ch -'A']++;
+            maxfreq = Math.max(maxfreq, freq[ch -'A']);
         }
-
-        // Step 2: Max Heap
-        PriorityQueue<Integer> maxHeap =
-                new PriorityQueue<>(Collections.reverseOrder());
-
-        for (int freq : map.values()) {
-            maxHeap.offer(freq);
-        }
-
-        // Step 3: Queue
-        // int[]{remainingFrequency, readyTime}
-        Queue<int[]> q = new LinkedList<>();
-
-        int time = 0;
-
-        while (!maxHeap.isEmpty() || !q.isEmpty()) {
-
-            // Ek CPU interval
-            time++;
-
-            // Agar koi task available hai
-            if (!maxHeap.isEmpty()) {
-
-                int freq = maxHeap.poll();
-
-                freq--;
-
-                // Agar task abhi bhi bacha hai
-                if (freq > 0) {
-                    q.offer(new int[]{freq, time + n});
-                }
-            }
-
-            // Agar queue ka task ready ho gaya
-            if (!q.isEmpty() && q.peek()[1] == time) {
-
-                maxHeap.offer(q.poll()[0]);
+        //maxcount nikalo
+        int countmax = 0;
+        for(int f : freq){
+            if(f == maxfreq){
+                countmax++;
             }
         }
-
-        return time;
+        int formula = (maxfreq - 1)*(n + 1) + countmax;
+        return Math.max(tasks.length, formula);
     }
 }
