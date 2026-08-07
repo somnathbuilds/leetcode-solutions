@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Math
 |  |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1046-last-stone-weight) |
