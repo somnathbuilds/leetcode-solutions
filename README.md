@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Minimax
 |  |
 | ------- |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
