@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
