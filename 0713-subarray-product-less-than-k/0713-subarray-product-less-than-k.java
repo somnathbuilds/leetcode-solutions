@@ -1,8 +1,8 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
-        //Handle invalid string
+        // handle invalid 
         if(k <= 1){return 0;}
-        
+
         int i = 0;
         int product = 1;
         int count = 0;
