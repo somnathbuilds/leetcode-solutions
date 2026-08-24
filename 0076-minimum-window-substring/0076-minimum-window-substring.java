@@ -12,11 +12,10 @@ class Solution {
         }
         int minWindow = Integer.MAX_VALUE;
         int i = 0;
-        int j = 0;
         int requiredcount = t.length();
         int start_i = 0;
         //check the minimum valid window  
-        while(j< s.length()){
+        for(int j = 0;j< s.length(); j++){
             char right = s.charAt(j);
             if(map.getOrDefault(right, 0) > 0){
                 requiredcount--;
@@ -36,7 +35,6 @@ class Solution {
                 }
                 i++;
             }
-            j++;
         }
         return minWindow == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindow);       
     }
