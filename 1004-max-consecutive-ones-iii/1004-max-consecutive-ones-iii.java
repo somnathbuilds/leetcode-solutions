@@ -3,7 +3,8 @@ class Solution {
         int i = 0;
         int zero = 0;
         int maxlength = 0;
-        for (int j = 0; j< nums.length; j++){
+
+        for(int j = 0; j<nums.length; j++){
             if(nums[j] == 0){
                 zero++;
             }
