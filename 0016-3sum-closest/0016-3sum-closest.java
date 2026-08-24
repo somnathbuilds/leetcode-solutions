@@ -3,22 +3,20 @@ class Solution {
         Arrays.sort(nums);
         int bestSum = nums[0] + nums[1] + nums[2];
 
-        for(int i = 0; i< nums.length -2; i++){
-            int j = i+1;
+        for(int i = 0; i < nums.length -2; i++){
+            int j = i +1;
             int k = nums.length -1;
-            
-            while(j < k){
-                int sum = nums[i] + nums[j] + nums[k];
 
-                if(Math.abs(bestSum - target) > Math.abs(sum - target)){
-                    bestSum = sum;
+            while(j<k){
+                int Sum = nums[i] + nums[j] + nums[k];
+                if(Math.abs(bestSum - target) > Math.abs(Sum - target)){
+                    bestSum = Sum;
                 }
-                if(sum < target){
+                if(Sum < target){
                     j++;
-                } else if(sum > target) {
+                } else if(Sum > target){
                     k--;
-                }
-                else{
+                } else {
                     return bestSum;
                 }
             }
