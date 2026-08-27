@@ -8,6 +8,7 @@ class Solution {
         for(int i = 0; i<intervals.length; i++){
             int start = intervals[i][0];
             int end = intervals[i][1];
+
             if(!inserted && newstart < start){
                 list.add(new int[]{newstart, newend});
                 inserted = true;
@@ -17,7 +18,8 @@ class Solution {
         if(!inserted){
             list.add(new int[]{newstart, newend});
         }
-        Collections.sort(list, (a,b) -> a[0] - b[0]);
+
+        Collections.sort(list, (a,b) -> a[0] -b[0]);
         List<int[]> ans = new ArrayList<>();
         int start1 = list.get(0)[0];
         int end1 = list.get(0)[1];
@@ -28,7 +30,6 @@ class Solution {
 
             if(end1 >= start2){
                 end1 = Math.max(end1, end2);
-                continue;
             } else{
                 ans.add(new int[]{start1, end1});
                 start1 = start2;
