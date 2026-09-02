@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
