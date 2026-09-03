@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
