@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0202-happy-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
