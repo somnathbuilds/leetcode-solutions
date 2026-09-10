@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
 | ------- |
