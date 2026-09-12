@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0486-predict-the-winner](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
