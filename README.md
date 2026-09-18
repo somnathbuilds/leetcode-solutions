@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
