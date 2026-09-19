@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0861-score-after-flipping-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0861-score-after-flipping-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Math
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0861-score-after-flipping-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0861-score-after-flipping-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
