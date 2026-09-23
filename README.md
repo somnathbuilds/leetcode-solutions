@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
