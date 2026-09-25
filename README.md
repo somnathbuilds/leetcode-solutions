@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
