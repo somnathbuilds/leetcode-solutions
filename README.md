@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/somnathbuilds/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/somnathbuilds/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/somnathbuilds/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0861-score-after-flipping-matrix](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/somnathbuilds/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/somnathbuilds/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/somnathbuilds/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
